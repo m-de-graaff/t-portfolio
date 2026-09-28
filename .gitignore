@@ -26,7 +26,8 @@ dist-ssr
 # Original full-size generated PNGs (web versions live in public/assets)
 .raw-assets
 
-# Reference video, not part of the site
+# Reference video and its extracted frames, not part of the site
 ref.MP4
+frames/
 
 .vercel
